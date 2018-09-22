@@ -1,13 +1,14 @@
 {
-  "name": "@ant-design/icons",
-  "version": "1.1.11",
+  "name": "purched-antd-icons",
+  "version": "0.1.1",
   "description": "Ant Design Icons",
   "module": "lib/index.es.js",
   "main": "lib/index.js",
   "sideEffects": false,
   "repository": "https://github.com/ant-design/ant-design-icons",
   "contributors": [
-    "HeskeyBaozi <hezhiyu233@foxmail.com>"
+    "HeskeyBaozi <hezhiyu233@foxmail.com>",
+    "Oboo Chin <oboochin@gmail.com>"
   ],
   "files": [
     "lib",
