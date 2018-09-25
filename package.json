@@ -1,6 +1,6 @@
 {
   "name": "purched-antd-icons",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Ant Design Icons",
   "module": "lib/index.es.js",
   "main": "lib/index.js",
